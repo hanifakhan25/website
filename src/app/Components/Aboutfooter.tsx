@@ -1,5 +1,3 @@
-
-import Image from 'next/image';
 import { ImFacebook2, ImLinkedin, ImPinterest, ImSkype, ImTwitter } from "react-icons/im";
 import { FaInstagram } from "react-icons/fa";
 
